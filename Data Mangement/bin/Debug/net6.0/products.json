@@ -1,0 +1,33 @@
+[
+  {
+    "Product": "maggi",
+    "Description": "Noodles",
+    "Price": 2,
+    "Category": "food"
+  },
+  {
+    "Product": "cheese",
+    "Description": "regular  cheese",
+    "Price": 8,
+    "Category": "food"
+  },
+  {
+    "Product": "iphone 11",
+    "Description": "Iphone",
+    "Price": 1100,
+    "Category": "technology"
+  },
+  {
+    "Product": "chair",
+    "Description": "Big wooden chair",
+    "Price": 25,
+    "Category": "furniture"
+  },
+  {
+    "Product": "desk",
+    "Description": "small wooden Desk",
+    "Price": 25,
+    "Category": "Furniture"
+  }
+]
+

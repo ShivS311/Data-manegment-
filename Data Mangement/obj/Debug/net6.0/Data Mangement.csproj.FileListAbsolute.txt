@@ -1,0 +1,17 @@
+F:\Cs30\Data Mangement\Data Mangement\bin\Debug\net6.0\Data Mangement.exe
+F:\Cs30\Data Mangement\Data Mangement\bin\Debug\net6.0\Data Mangement.deps.json
+F:\Cs30\Data Mangement\Data Mangement\bin\Debug\net6.0\Data Mangement.runtimeconfig.json
+F:\Cs30\Data Mangement\Data Mangement\bin\Debug\net6.0\Data Mangement.dll
+F:\Cs30\Data Mangement\Data Mangement\bin\Debug\net6.0\Data Mangement.pdb
+F:\Cs30\Data Mangement\Data Mangement\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Cs30\Data Mangement\Data Mangement\obj\Debug\net6.0\Data Mangement.csproj.AssemblyReference.cache
+F:\Cs30\Data Mangement\Data Mangement\obj\Debug\net6.0\Data Mangement.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cs30\Data Mangement\Data Mangement\obj\Debug\net6.0\Data Mangement.AssemblyInfoInputs.cache
+F:\Cs30\Data Mangement\Data Mangement\obj\Debug\net6.0\Data Mangement.AssemblyInfo.cs
+F:\Cs30\Data Mangement\Data Mangement\obj\Debug\net6.0\Data Mangement.csproj.CoreCompileInputs.cache
+F:\Cs30\Data Mangement\Data Mangement\obj\Debug\net6.0\Data Mangement.csproj.CopyComplete
+F:\Cs30\Data Mangement\Data Mangement\obj\Debug\net6.0\Data Mangement.dll
+F:\Cs30\Data Mangement\Data Mangement\obj\Debug\net6.0\refint\Data Mangement.dll
+F:\Cs30\Data Mangement\Data Mangement\obj\Debug\net6.0\Data Mangement.pdb
+F:\Cs30\Data Mangement\Data Mangement\obj\Debug\net6.0\Data Mangement.genruntimeconfig.cache
+F:\Cs30\Data Mangement\Data Mangement\obj\Debug\net6.0\ref\Data Mangement.dll
